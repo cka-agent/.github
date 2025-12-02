@@ -8,4 +8,4 @@ Official organization for **CKA-Agent: A Wolf in Sheep's Clothing** — a novel 
 *   **Project Homepage:** [cka-agent.github.io](https://cka-agent.github.io)
 *   **Paper:**
     *   **Title:** A Wolf in Sheep’s Clothing: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search
-    *   [Read more on arXiv](https://arxiv.org/)
+    *   [Read more on arXiv](https://arxiv.org/abs/2512.01353)
